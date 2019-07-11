@@ -21,6 +21,8 @@ html {
 /* Write your solution here */
 @media (min-width: 642px) and (max-width: 1090px) {
   img {
+    position: absolute;
+    top: 200px;
     transform: rotate(0.5turn);
   }
 }
