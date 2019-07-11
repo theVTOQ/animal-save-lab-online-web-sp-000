@@ -1,5 +1,6 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
+  margin: 50px;
 }
 
 #ostrich {
@@ -9,4 +10,10 @@ html {
 }
 
 /* Write your solution here */
-
+@media (max-width: 1414px) {
+  #ostrich {
+    position: absolute;
+    top: 0px;
+  }
+}
+  

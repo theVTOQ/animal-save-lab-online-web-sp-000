@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
-
+@media (max-width: 1200px) and (min-width: 400px) {
+  img {
+    position: fixed;
+    top: 0px;
+    right: 120px;
+  }
+}
