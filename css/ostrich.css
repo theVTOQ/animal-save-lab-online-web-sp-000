@@ -12,6 +12,6 @@ html {
 @media (max-width: 1414px) {
   img {
     position: absolute;
-    bottom: 0px;
+    top: 0px;
   }
 }
